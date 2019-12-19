@@ -3,3 +3,6 @@ This part of the project describes the C part responsible for the Arduino microc
 
 # Files not shown
 The FreeRTOS and the drivers folders are not shown in this project.
+
+# Code
+The main code for this project is written inside the main.c file.
